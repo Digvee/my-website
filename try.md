@@ -1,3 +1,0 @@
-#DEMO FILE
-
-this is a part two of demo file and im learning this to add it back on master branch 
